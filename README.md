@@ -5,6 +5,6 @@
 
 
 - 🔭 Working on Estudio Ondina as a Media Specialist
-- 🌱 Learning Front End Development
+- 🔎 Seeking for first Dev Job
+- 🌱 Learning C at 42 | Rio
 - 📫 How to reach me: danielbessa01@gmail.com
-- 😄 About me: guitar player and sing-songwriter
