@@ -1,10 +1,11 @@
 # Daniel Bessa
 
+## I'm a software engineer student at [École 42](https://42.rio/) and here i'll share my progress during the course and some projects that i'll work on
 
 ### Hi there 👋
 
-
-- 🔭 Working on Estudio Ondina as a Media Specialist
-- 🔎 Seeking for first Dev Job
-- 🌱 Learning C at 42 | Rio
-- 📫 How to reach me: danielbessa01@gmail.com
+- 🎓 graduated in advertising and marketing uff-rj
+- 🔭 working at estudio ondina as a media specialist
+- 📖 cadet at [École 42](https://42.rio/) since 10/2023
+- 🔎 seeking for first dev job
+- 📫 how to reach me: danielbessa01@gmail.com
