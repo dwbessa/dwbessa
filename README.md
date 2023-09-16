@@ -8,4 +8,9 @@
 - 🔭 working at estudio ondina as a media specialist
 - 📖 cadet at [École 42](https://42.rio/) since 10/2023
 - 🔎 seeking for first dev job
-- 📫 how to reach me: danielbessa01@gmail.com
+- 🎸 musician in free time
+
+
+## How to reach me?
+[<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">](https//www.linkedin.com/in/dwbessa)
+[<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">](mailto:danielbessa01@gmail.com)
