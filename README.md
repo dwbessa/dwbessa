@@ -1,8 +1,8 @@
 # hi there, Daniel here 👋
 
-## i'm a software engineer student at [École 42](https://42.rio/) and here i'll share my progress during the course and some projects that i'll work on
+## about me
 
-### about me
+ i'm a software engineer student at [École 42](https://42.rio/) and here i'll share my progress during the course and some projects that i'll work on
 
 - 🎓 graduated in advertising and marketing uff-rj
 - 🔭 working at estudio ondina as a media specialist
