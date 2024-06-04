@@ -1,4 +1,4 @@
-# hi there, Daniel here 👋
+## hi there, Daniel here 👋
 
 ## about me 🥷
 
