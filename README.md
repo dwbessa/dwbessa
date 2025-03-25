@@ -12,7 +12,7 @@
 - 🎸 musician in free time
 
 ## my tools 🧰
-[![My Skills](https://skillicons.dev/icons?i=vue,html,css,c,cpp,go,java,kotlin,python)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=vue,html,css,c,cpp,go,java,kotlin,python,docker)](https://skillicons.dev)
 
 
 ## how to reach me? ☎️
