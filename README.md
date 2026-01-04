@@ -2,10 +2,10 @@
 
 ## about me 🥷
 
-- 🔭 data engineer @ vibra
+- 🔭 process automation @ austral holding
 - 🎓 graduated in advertising and marketing @ [UFF/RJ](https://www.uff.br/) class of 2020
 - 🎓 graduating in systems analysis and development @ [UFBRA](https://ufbra.com.br) class of 2026
-- 📖 studying at [École 42](https://42.rio/) Rio since 2023
+- 📖 student at [École 42](https://42.rio/) Rio since 2023
 - 🔎 seeking for full stack dev job
 - 🎸 musician in free time
 
