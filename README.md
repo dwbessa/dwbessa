@@ -9,7 +9,7 @@
 - 🎓 graduated in advertising and marketing @ [UFF/RJ](https://www.uff.br/) class of 2020
 
 ## my tools 🧰
-[![My Skills](https://skillicons.dev/icons?i=python,go,kotlin,gcp,aws,azure,docker,terraform)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,go,kotlin,git,jenkins,kafka,aws,azure,docker,terraform)](https://skillicons.dev)
 
 
 ## how to reach me? ☎️
